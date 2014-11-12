@@ -1,0 +1,4 @@
+heroku config:set HUBOT_SLACK_TOKEN=4186zMSEys3mFxfNzG8m2CYT
+heroku config:set HUBOT_SLACK_TEAM=cadchat
+heroku config:set HUBOT_SLACK_BOTNAME=slackbot
+heroku config:set HEROKU_URL=http://vast-escarpment-2112.herokuapp.com
